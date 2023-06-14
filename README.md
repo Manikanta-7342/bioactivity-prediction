@@ -1,8 +1,5 @@
-# bioactivity-prediction
+# Bioactivity-prediction
 
-
-# Reproducing this web app
-To recreate this web app on your own computer, do the following.
 
 ### Create conda environment
 Firstly, we will create a conda environment called *bioactivity*
